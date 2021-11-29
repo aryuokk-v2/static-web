@@ -22,7 +22,7 @@
  }
  
 .logo{
-    width: 400px;
+    width: 200px;
     cursor: pointer;
 }
 .ico-menu{
@@ -82,9 +82,9 @@ nav ul li a:hover{
     font-weight: 600;
 }
 
-/* .user-img{
+.user-img{
     width: 540px;
     position: absolute;
     right: 8%;
     bottom: 0;
-} */
+}
