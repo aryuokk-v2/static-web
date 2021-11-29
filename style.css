@@ -22,7 +22,7 @@
  }
  
 .logo{
-    width: 190px;
+    width: 400px;
     cursor: pointer;
 }
 .ico-menu{
@@ -50,7 +50,7 @@ nav ul li a{
 }
 
 nav ul li a:hover{
-    color: #fff724;
+    color: #F02222;
 }
 
 .text-box{
@@ -69,14 +69,14 @@ nav ul li a:hover{
     margin-top: 30px;
     display: inline-block;
     border-radius: 6px;
-    border: 2px solid #fff724;
-    color: #fff724;
+    border: 2px solid #F02222;
+    color: #F02222;
     padding: 10px 30px;
     text-decoration: none;
 }
 
 .text-box .btn{
-    background: #fff724;
+    background: #F02222;
     color: #000;
     margin-left: 30px;
     font-weight: 600;
